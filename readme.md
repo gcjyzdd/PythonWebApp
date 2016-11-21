@@ -1,5 +1,7 @@
 # Python Web Application
 
-Modified on Michiale Liao's project.
+Modified on Michaele Liao's project.
+
+Simplify this project.
 
 
